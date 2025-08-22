@@ -3,3 +3,6 @@ description: Flame için ek bileşenler
 version: 0.0.1
 environment:
   sdk: ^3.6.0
+dependencies:
+  flutter:
+    sdk: flutter
